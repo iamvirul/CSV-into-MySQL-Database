@@ -8,7 +8,7 @@ class Database
     public static function setUpConnection()
     {
         if (!isset(Database::$connection)) {
-            Database::$connection = new mysqli("127.0.0.1", "root", "200528100634@Vn", "ExcelData", "3306");
+            Database::$connection = new mysqli("127.0.0.1", "root", "", "ExcelData", "3306");
         }
     }
 
