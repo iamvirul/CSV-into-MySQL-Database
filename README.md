@@ -16,7 +16,7 @@ The CSV-into-MySQL-Database project is a PHP-based tool designed to read data fr
 Clone the project
 
 ```bash
-  git clone https://github.com/iamvirul/CVS-into-MySQL-Database.git
+  git clone https://github.com/iamvirul/CSV-into-MySQL-Database.git
 ```
 
 Go to the XAMPP htdocs directory.Assuming XAMPP is installed in the default location on Windows (C:\xampp), you can do:
