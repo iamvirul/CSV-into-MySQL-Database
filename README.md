@@ -1,7 +1,7 @@
 
 # CSV-into-MySQL-Database
 
-The CVS-into-MySQL-Database project is a PHP-based tool designed to read data from CSV files and seamlessly import it into a MySQL database. This straightforward system aims to simplify the process of transferring data from CSV files into a structured MySQL database.
+The CSV-into-MySQL-Database project is a PHP-based tool designed to read data from CSV files and seamlessly import it into a MySQL database. This straightforward system aims to simplify the process of transferring data from CSV files into a structured MySQL database.
 
 
 ## Key Features
